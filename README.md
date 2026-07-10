@@ -73,10 +73,9 @@ Proposed a graph neural network framework for drug–drug interaction prediction
 
 ## 🎓 Education
 
-**Master of Science, Data Science** | UC San Diego (Sep 2024 – Mar 2026) · GPA: 3.58/4
-**Bachelor of Technology, Electronics & Telecom** | Vellore Institute of Technology (Jul 2017 – Jun 2021) · GPA: 3.6/4
+**Master of Science, Data Science** | UC San Diego (Sep 2024 – Mar 2026) · 
+**Bachelor of Technology, Electronics & Telecom** | Vellore Institute of Technology (Jul 2017 – Jun 2021) · 
 
-**Certifications:** AWS Certified Developer - Associate
 
 ---
 
